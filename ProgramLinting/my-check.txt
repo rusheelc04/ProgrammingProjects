@@ -1,0 +1,7 @@
+Name: UselessVariableCheck
+
+Description: The UselessVariableCheck should return an error if a variable is made 
+but never used anywhere in the code. This check would help make sure that variables are 
+being used as intended, and could prevent bugs and improve code readability.
+
+Error Code: 4
